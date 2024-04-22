@@ -1,0 +1,6 @@
+unique_name: snowflake
+label: snowflake
+object_type: connection
+as_connection: con1
+database: ATSCALE_TUTORIAL_DATA
+schema: as_adventure
